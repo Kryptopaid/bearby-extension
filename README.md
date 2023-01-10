@@ -1,4 +1,4 @@
-# BearBy Browser Extension of Massa blockchain
+# BearBy Browser Extension for Massa blockchain
 
 [![Chrome](https://img.shields.io/chrome-web-store/v/papngmkmknnmfhabbckobgfpihpdgplk)](https://chrome.google.com/webstore/detail/bearby/papngmkmknnmfhabbckobgfpihpdgplk?utm_source=chrome-ntp-icon)
 [![FireFox](https://img.shields.io/amo/v/bearby)](https://addons.mozilla.org/en-GB/firefox/addon/bearby/)
@@ -12,8 +12,8 @@ Massa's plugin of Chrome and FireFox.
 ## Installation:
  
 * Download the extension using git: git clone `https://github.com/bearby-wallet/bearby-extension.git` or as a zip file.
-* You can download ready from [realeses page](https://github.com/bearby-wallet/bearby-extension/releases)
-* Install extension into browser.
+* You can download directly from [realeses page](https://github.com/bearby-wallet/bearby-extension/releases)
+* Install the extension on your browser.
 
 ```bash
 $ git clone https://github.com/bearby-wallet/bearby-extension.git
@@ -24,7 +24,7 @@ $ # after build you will see `dist` folder.
 ```
 
  - Firefox:
-    Type about:debugging in the adress bar
+    Type about:debugging in the address bar
     Click on "This Firefox"
     Click on "Load Temporary Add-on..."
     Select the file manifest.json in the massa-wallet folder
